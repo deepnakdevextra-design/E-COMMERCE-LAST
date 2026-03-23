@@ -4,12 +4,10 @@ import Navbar from '../Components/Navbar'
 import Main from '../Components/Main'
 import Bottombar from '../Components/Bottombar'
 import Product from "../Components/Product"
-import Pdt2 from '../Components/pdt2'
-import Pdt3 from '../Components/pdt3'
+import Pdt2 from '../Components/Pdt2'
+import Pdt3 from '../Components/Pdt3'
 import Revew from '../Components/Revew'
 import Feature from '../Components/Feature'
-
-
 
 
 export default function Home() {

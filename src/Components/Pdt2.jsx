@@ -1,4 +1,4 @@
-import React from 'react'
+import React,{useEffect,useState}from 'react';
 import pic5 from "../assets/page2/Frame1.png"
 import pic6 from "../assets/page2/Frame2.png"
 import pic7 from "../assets/page2/Frame3.png" 
@@ -6,6 +6,7 @@ import pic8 from "../assets/page2/Frame4.png"
 import { Star } from 'lucide-react'
 
 export default function Pdt2() {
+
  const products=[
      {
      id:5,
